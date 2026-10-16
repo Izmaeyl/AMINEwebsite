@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Private pre-launch review site. Revisit robots and page noindex tags at public launch.
